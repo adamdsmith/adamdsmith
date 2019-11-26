@@ -16,6 +16,7 @@ education:
 email: ""
 interests:
 - Avian Ecology
+- Migration Ecology
 - Movement Ecology
 - Quantitative Ecology
 - R
