@@ -12,16 +12,16 @@ Aside
 ================================================================================
 
 
-![Adam Smith](avatar.jpg){width=80%}
+![Adam Smith](static/img/avatar.jpg){width=100%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> avianmigration@gmail.com
-- <i class="fa fa-github"></i> [github.com/adamdsmith](https://github.com/adamdsmith)
-- For more information, please contact me via email.
-
+- <i class="fa fa-twitter"></i> avianmigration
+- <i class="fa fa-github"></i> github.com/adamdsmith
+- <i class="fa fa-link"></i> [adamdsmith.me](http://adamdsmith.me/)
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -43,40 +43,42 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Adam D. Smith {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
-
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+Placeholder.
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### University of Rhode Island
 
-B.S. in Information and Computing Sciences
+Ph.D. Environmental Science (avian ecology)
 
-Beijing, China
+Kingston, RI
 
-2010
+2013
 
-Thesis: Dyadic wavelet and its application in edge detection
+Thesis: Migration and stopover ecology of songbirds and bats along a major ecological barrier
 
-### University of Chinese Academy of Sciences
+### Boise State University
 
-M.S. in Bioinformatics
+M.S. Raptor Biology
 
-Beijing, China
+Boise, ID
 
-2014
+2006
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+Thesis: Exploring raptor migration using stable isotope analysis: the Northern Goshawk in western North America
 
+### Murray State University
+
+B.S. Wildlife Biology
+
+Murray, KY
+
+2000
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
