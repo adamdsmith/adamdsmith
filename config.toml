@@ -78,9 +78,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 [social]
-    github  = "https://github.com/adamdsmith"
-    twitter = "https://twitter.com/avianmigration"
+  github  = "https://github.com/adamdsmith"
+  twitter = "https://twitter.com/avianmigration"
     
 [params]
-author = "Adam Smith"
-dateFormat = "2019/11/11"
+  author = "Adam Smith"
+  dateFormat = "2019/11/11"
