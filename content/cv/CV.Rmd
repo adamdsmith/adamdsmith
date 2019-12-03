@@ -47,7 +47,7 @@ Aside
 ================================================================================
 
 
-![logo](avatar.jpg){width=100%}
+![logo](../../static/img/avatar.jpg){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
