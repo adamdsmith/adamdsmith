@@ -1,0 +1,191 @@
+---
+title: "Adam D. Smith's CV"
+author: Adam D. Smith
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+
+library(tidyverse)
+library(glue)
+
+# Set this to true to have links turned into footnotes at the end of the document
+PDF_EXPORT <- FALSE
+
+# Holds all the links that were inserted for placement at the end
+links <- c()
+
+source('parsing_functions.R')
+
+# Load csv with position info
+position_data <- read_csv('positions_ads.csv')
+```
+
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("
+  <style>
+  :root{
+    --decorator-outer-offset-left: -6.5px;
+  }
+  </style>")
+}
+```
+
+
+Aside
+================================================================================
+
+
+![logo](../../static/img/avatar.jpg){width=100%}
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("View this CV online with links at _nickstrayer.me/cv_")
+} else {
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
+}
+```
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [avianmigration@gmail.com](mailto:avianmigration@gmail.com)
+- <i class="fa fa-github"></i> [github.com/adamdsmith](http://github.com/adamdsmith)
+- <i class="fa fa-link"></i> [adamdsmith.me](http://adamdsmith.me/)
+- <i class="ai ai-google-scholar"></i> [Google Scholar](http://scholar.google.com/citations?user=7I5SC8wAAAAJ&hl=en)
+- <i class="fa fa-twitter"></i> [avianmigration](http://twitter/com/avianmigration)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fab fa-r-project"></i> R
+- <i class="fa fa-broadcast-tower"></i> Digital telemetry
+- <i class="fa fa-feather"></i> Bird banding
+- <i class="fas fa-laptop"></i> Data analysis
+- <i class="fa fa-github"></i> GitHub
+- <i class="fab fa-markdown"></i> Markdown
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with [**pagedown**](https://github.com/rstudio/pagedown). 
+
+Source code on [github](https://github.com/adamdsmith/adamdsmith/content/cv).
+
+Last updated: `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Adam D. Smith {#title}
+--------------------------------------------------------------------------------
+
+
+```{r}
+intro_text <- "As a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/), I provide ecological inventory and monitoring design and analytical assistance to the roughly 130 National Wildlife Refuges. In addition, I engage in diverse partnerships with conservation and resource management agencies and organizations to support a research program built around modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. Most of my active projects are collaborative and integrate digitally-coded telemetry or GPS logging technology to answer landscape and local scale questions relevant to conservation and management. I am an open science advocate."
+
+cat(sanitize_links(intro_text))
+```
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'education')
+```
+
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'professional_positions')
+```
+
+
+<!-- Industry Experience {data-icon=suitcase} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ::: aside -->
+<!-- I have worked in a variety of roles ranging from journalist to software engineer to data scientist. I like collaborative environments where I can learn from my peers.  -->
+<!-- ::: -->
+
+<!-- ```{r} -->
+<!-- print_section(position_data, 'industry_positions') -->
+<!-- ``` -->
+
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+
+
+Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'academic_articles')
+```
+
+Grants {data-icon=book}
+--------------------------------------------------------------------------------
+
+Asterisks (\*) indicate I was integral to project development, design, and implementation, but not an official PI due to institutional policies.
+
+```{r, eval=TRUE}
+print_section(position_data, 'grants')
+```
+
+Presentations {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r, eval=FALSE}
+print_section(position_data, 'academic_presentations')
+```
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+<!-- ::: aside -->
+<!-- I am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task.  -->
+<!-- ::: -->
+
+```{r}
+print_section(position_data, 'teaching_positions')
+```
+
+```{r}
+if(PDF_EXPORT){
+  cat("
+  
+Links {data-icon=link}
+--------------------------------------------------------------------------------
+
+<br>
+
+
+")
+  
+  walk2(links, 1:length(links), function(link, index){
+    print(glue('{index}. {link}'))
+  })
+}
+```
+
+
