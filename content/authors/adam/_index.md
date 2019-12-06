@@ -31,18 +31,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/avianmigration
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Adam_Smith11
+  link: http://scholar.google.com/citations?user=7I5SC8wAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/adamdsmith
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/avianmigration
 superuser: true
 ---
 
-I currently work as a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/). I provide ecological and analytical assistance to the roughly 130 National Wildlife Refuges in 10 southeastern states.
-
-I am a migration and movement ecologist by training and by passion. My research program combines field experiments, observational studies (at the level of organisms, populations, or communities), and modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. This integrative, multi-scale approach facilitates collaborative research and the testing of mechanistic hypotheses relevant to conservation and management. In particular, I am increasingly focusing on the use of digitally-coded telemetry in local scale investigations into the behavioral, nutritional, and physiological ecology of migratory individuals (e.g., during resting and refueling stops in between migratory flights) as well as landscape scale questions relative to anthropogenic influences. I am an open science advocate.
+As a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/), I provide ecological inventory and monitoring design and analytical assistance to the roughly 130 National Wildlife Refuges. In addition, I engage in diverse partnerships with conservation and resource management agencies and organizations to support a research program built around modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. Most of my active projects are collaborative and integrate digitally-coded telemetry or GPS logging technology to answer landscape and local scale questions relevant to conservation and management. I am an open science advocate.
