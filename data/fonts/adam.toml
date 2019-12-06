@@ -1,0 +1,11 @@
+name = "adam"
+
+google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
+
+heading_font = "Arapey"
+body_font = "Karla"
+nav_font = "Karla"
+mono_font = "Roboto Mono"
+
+font_size = "18"
+font_size_small = "16"
