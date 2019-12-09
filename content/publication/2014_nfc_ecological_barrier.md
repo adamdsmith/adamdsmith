@@ -12,7 +12,7 @@ selected = false
 title = "Using nocturnal flight calls to assess the fall migration of warblers and sparrows along a coastal ecological barrier"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0092218&type=printable"
+url_pdf = "papers/2014_nfc_ecological_barrier.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""

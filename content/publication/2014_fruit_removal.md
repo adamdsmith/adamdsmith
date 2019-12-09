@@ -12,7 +12,7 @@ selected = false
 title = "Fruit removal rate depends on neighborhood fruit density, frugivore abundance, and spatial context"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0092218&type=printable"
+url_pdf = "papers/2014_fruit_removal.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""

@@ -12,7 +12,7 @@ selected = false
 title = "Using land-based surveys to assess sea duck abundance and behavior in nearshore waters of southern New England, USA"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://bioone.org/journalArticle/Download?fullDOI=10.1675%2F063.038.0305"
+url_pdf = "papers/2015_land_based_surveys_waterfowl.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
