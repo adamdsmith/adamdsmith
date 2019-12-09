@@ -31,6 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /contact
+- icon: cv
+  icon_pack: ai
+  link: cv/cv.html
 - icon: google-scholar
   icon_pack: ai
   link: http://scholar.google.com/citations?user=7I5SC8wAAAAJ&hl=en
