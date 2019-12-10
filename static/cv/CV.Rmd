@@ -54,7 +54,7 @@ Aside
 ![logo](../../static/img/avatar.jpg){width=100%}
 
 ```{r}
-# cat("View this CV online with links at [_adamdsmith.me/cv_](http://adamdsmith.me/cv)")
+#cat("View this CV online with links at [_adamdsmith.me/cv/cv.html_](http://adamdsmith.me/cv/cv.html)")
 cat("[<i class='fas fa-download'></i> Download this CV as a PDF](https://github.com/adamdsmith/adamdsmith/raw/master/static/cv/adamdsmith_cv.pdf)")
 ```
 
