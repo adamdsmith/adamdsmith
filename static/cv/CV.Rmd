@@ -187,6 +187,13 @@ Advising {data-icon=comment}
 print_section(position_data, 'advisory_positions')
 ```
 
+References
+--------------------------------------------------------------------------------
+
+```{r, eval=FALSE}
+print_section(position_data, 'references')
+```
+
 ```{r, eval=FALSE}
 if(PDF_EXPORT){
   cat("
