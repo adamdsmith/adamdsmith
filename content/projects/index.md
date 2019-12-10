@@ -44,7 +44,7 @@ Collaborators: Clint Moore, US Geological Survey; Bob Cooper and David Tilson, U
 
 This forthcoming project will use automated telemetry and a grid of wireless nodes to track the local movements of Black Rail during their breeding season and beyond in Florida.
 
-## **Ruddy Turnstone migration and stopover and disease transmission**
+## **Ruddy Turnstone stopover, migration routes, and association with disease prevalence**
 
 Collaborators: Rebecca Poulson and Deb Carter, Southeast Coastal Wildlife Disease Study; Felicia Sanders, South Carolina DNR
 
