@@ -48,7 +48,7 @@ This forthcoming project will use automated telemetry and a grid of wireless nod
 
 Collaborators: Rebecca Poulson and Deb Carter, Southeast Coastal Wildlife Disease Study; Felicia Sanders, South Carolina DNR
 
-Similar to the Red Knot work, the project aims to better understand the migratory pathways Ruddy Turnstones take towards their Arctic breeding grounds, how important the south Atlantic coast is as a staging area compared to more touted areas (e.g., Delaware Bay), and the association between staging site connectivity and the transmission, prevalence, and distribution of shorebirds with influenza A and avian avulaviruses.
+Similar to the Red Knot work, this project aims to better understand the migratory pathways Ruddy Turnstones take towards their Arctic breeding grounds and how important the south Atlantic coast is as a staging area compared to more touted areas (e.g., Delaware Bay). In addition, we will explore the association between staging site connectivity and the transmission, prevalence, and distribution of shorebirds with various strains of influenza A and avian avulaviruses.
 
 ## **Merlin migration along the Atlantic Coast**
 
