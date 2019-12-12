@@ -50,7 +50,6 @@ if(PDF_EXPORT){
 Aside
 ================================================================================
 
-
 ![logo](../../static/img/avatar.jpg){width=100%}
 
 ```{r}
@@ -141,18 +140,31 @@ Publications {data-icon=book}
 print_section(position_data, 'publications')
 ```
 
-<br>
-<br>
-<br>
-<br>
+Software {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'software')
+```
 
 Grants {data-icon=money-bill}
 --------------------------------------------------------------------------------
 
-> Asterisks (\*) indicate I was integral to project development, design, and implementation, but not an official PI due to institutional policies.
+> NOTE: asterisks (\*) indicate integral contribution to project development, design, and implementation, but institutional policies prevented inclusion as a PI.
 
 ```{r, eval=TRUE}
 print_section(position_data, 'grants')
+```
+
+Teaching {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+<!-- ::: aside -->
+<!-- I am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task. -->
+<!-- ::: -->
+
+```{r}
+print_section(position_data, 'teaching_positions')
 ```
 
 Invited Talks {data-icon=chalkboard-teacher}
@@ -169,17 +181,6 @@ Contributed Talks {data-icon=chalkboard-teacher}
 print_section(position_data, 'presentations')
 ```
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-<!-- ::: aside -->
-<!-- I am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task. -->
-<!-- ::: -->
-
-```{r}
-print_section(position_data, 'teaching_positions')
-```
-
 Advising {data-icon=comment}
 --------------------------------------------------------------------------------
 
@@ -187,10 +188,10 @@ Advising {data-icon=comment}
 print_section(position_data, 'advisory_positions')
 ```
 
+<!-- References -->
+<!-- -------------------------------------------------------------------------------- -->
 
 ```{r, eval=FALSE}
-References
---------------------------------------------------------------------------------
 print_section(position_data, 'references')
 ```
 
