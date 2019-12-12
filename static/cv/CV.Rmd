@@ -81,7 +81,7 @@ Disclaimer {#disclaimer}
 
 Made with [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code on [github](https://github.com/adamdsmith/adamdsmith/static/cv).
+Source code on [github](https://github.com/adamdsmith/adamdsmith/tree/master/static/cv).
 
 Last updated: `r Sys.Date()`.
 
