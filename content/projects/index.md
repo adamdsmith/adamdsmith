@@ -58,9 +58,9 @@ In the falls of 2014 - 2015, we deployed &#8776; 70 coded telemetry tags on sout
 
 ## **Stopover ecology of Whimbrel in coastal South Carolina**
 
-Collaborators:  Felicia Sanders, South Carolina DNR; Nathan Senner, University of South Carolina
+Collaborators:  Maina Handmaker and Nathan Senner, University of South Carolina; Felicia Sanders, South Carolina DNR; Tim Keyes and Fletcher Smith, Georgia DNR
 
-This is a project we hope to pilot in spring 2020 with a small deployment of GPS logging tags that will offload data via VHF at a communal roost. We will examine the scale and ecology of Whimbrel spring stopover along the south Atlantic coast, as well as learn more about the migration routes of this cohort of the Whimbrel population, rounding out the picture provided by some recent satellite tracking data.
+This project employs GPS logging tags that offload data via VHF at communal roosts. We will examine the scale and ecology of Whimbrel spring stopover along the south Atlantic coast, as well as learn more about the migration routes of this cohort of the Whimbrel population, rounding out the picture provided by some recent satellite tracking data.
 
 # Completed projects
 
