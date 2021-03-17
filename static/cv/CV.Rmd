@@ -70,11 +70,12 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 - <i class="fab fa-r-project"></i> R
+- <i class="fa fa-binoculars"></i> Wildlife survey design
 - <i class="fa fa-broadcast-tower"></i> Digital telemetry
 - <i class="fa fa-feather"></i> Bird banding (master)
 - <i class="fas fa-laptop"></i> Data analysis
 - <i class="fa fa-github"></i> GitHub
-- <i class="fab fa-markdown"></i> Markdown
+- <i class="fa fa-file-invoice"></i> RMarkdown
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -94,7 +95,7 @@ Adam D. Smith {#title}
 
 
 ```{r}
-intro_text <- "As a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/), I provide ecological inventory and monitoring design and analytical assistance to the roughly 130 National Wildlife Refuges. In addition, I engage in diverse partnerships with conservation and resource management agencies and organizations to support a research program built around modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. Most of my active projects are collaborative and integrate digitally-coded telemetry or GPS logging technology to answer landscape and local scale questions relevant to conservation and management. I am an open science advocate."
+intro_text <- "As a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/), I provide varied ecological inventory and monitoring support, build statistical models relevant to this monitoring, and develop methods and tools to synthesize, analyze, and report on ecological data, with a responsibility to 130 southeastern National Wildlife Refuges. In addition, I engage in diverse partnerships with conservation and resource management agencies and organizations to support a research program built around modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. Most of my active projects are collaborative and integrate digitally-coded telemetry or GPS logging technology to answer landscape and local scale questions relevant to conservation and management. I am an open science advocate."
 
 cat(sanitize_links(intro_text))
 ```
@@ -108,29 +109,12 @@ print_section(position_data, 'education')
 ```
 
 
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
 print_section(position_data, 'professional_positions')
 ```
-
-
-<!-- Industry Experience {data-icon=suitcase} -->
-<!-- -------------------------------------------------------------------------------- -->
-
-<!-- ::: aside -->
-<!-- I have worked in a variety of roles ranging from journalist to software engineer to data scientist. I like collaborative environments where I can learn from my peers.  -->
-<!-- ::: -->
-
-<!-- ```{r} -->
-<!-- print_section(position_data, 'industry_positions') -->
-<!-- ``` -->
-
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
 
 
 Publications {data-icon=book}
@@ -140,12 +124,14 @@ Publications {data-icon=book}
 print_section(position_data, 'publications')
 ```
 
+
 Software {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
 print_section(position_data, 'software')
 ```
+
 
 Grants {data-icon=money-bill}
 --------------------------------------------------------------------------------
@@ -155,6 +141,7 @@ Grants {data-icon=money-bill}
 ```{r, eval=TRUE}
 print_section(position_data, 'grants')
 ```
+
 
 Teaching {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -167,12 +154,14 @@ Teaching {data-icon=chalkboard-teacher}
 print_section(position_data, 'teaching_positions')
 ```
 
+
 Invited Talks {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ```{r, eval=TRUE}
 print_section(position_data, 'presentations_invited')
 ```
+
 
 Contributed Talks {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -181,12 +170,14 @@ Contributed Talks {data-icon=chalkboard-teacher}
 print_section(position_data, 'presentations')
 ```
 
+
 Advising {data-icon=comment}
 --------------------------------------------------------------------------------
 
 ```{r, eval=TRUE}
 print_section(position_data, 'advisory_positions')
 ```
+
 
 <!-- References -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -198,6 +189,7 @@ print_section(position_data, 'references')
 ```{r, eval=FALSE}
 if(PDF_EXPORT){
   cat("
+
   
 Links {data-icon=link}
 --------------------------------------------------------------------------------
