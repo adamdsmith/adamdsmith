@@ -26,12 +26,6 @@ Collaborators:  Felicia Sanders, South Carolina DNR; Tim Keyes and Fletcher Smit
 
 We've deployed over 100 nanotags on threatened *rufa* Red Knots wintering or stopping over in the southeastern United States during northbound migration to evaluate the use of the southeast as a landscape-scale stopover and the tendency of these knots to depart directly for more northern staging areas (e.g., James Bay) or the Arctic rather than use more expected staging sites in the mid-Atlantic such as Delaware Bay.
 
-## **Molt-migration and migration ecology of eastern Painted Buntings**
-
-Collaborators:  Aaron Given, Town of Kiawah Island, SC 
-
-We deployed 30 nanotags in summer 2019 on Painted Buntings breeding on Kiawah Island, SC, as well as 5 Motus stations to monitor their movement around the island. We are evaluating whether eastern Painted Buntings use a molt-migration strategy similar to western Painted Buntings, as well as the migration timing, routes, and winter destinations of this breeding population.
-
 ## **Seasonal connectivity of Saltmarsh Sparrow**
 
 Collaborators:  Rhode Island, Parker River, and Rachel Carson National Wildlife Refuges; Dr. Chris Elphick, University of Connecticut; Aaron Given, Town of Kiawah Island, SC; Tim Keyes, Georgia DNR
@@ -55,6 +49,12 @@ Similar to the Red Knot work, this project aims to better understand the migrato
 Collaborators:  Maina Handmaker and Nathan Senner, University of South Carolina; Felicia Sanders, South Carolina DNR; Tim Keyes and Fletcher Smith, Georgia DNR
 
 This project employs GPS logging tags that offload data via VHF at communal roosts. We will examine the scale and ecology of Whimbrel spring stopover along the south Atlantic coast, as well as learn more about the migration routes of this cohort of the Whimbrel population, rounding out the picture provided by some recent satellite tracking data.
+
+## **Molt-migration and migration ecology of eastern Painted Buntings**
+
+Collaborators:  Aaron Given, Town of Kiawah Island, SC 
+
+We deployed 30 nanotags in summer 2019 on Painted Buntings breeding on Kiawah Island, SC, as well as 5 Motus stations to monitor their movement around the island. We are evaluating whether eastern Painted Buntings use a molt-migration strategy similar to western Painted Buntings, as well as the migration timing, routes, and winter destinations of this breeding population.
 
 ## **Merlin migration along the Atlantic Coast**
 
