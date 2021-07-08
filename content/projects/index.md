@@ -42,7 +42,7 @@ In the falls of 2014-2016, we deployed nanotags on southbound Saltmarsh Sparrows
 
 Collaborators: Clint Moore, US Geological Survey; Bob Cooper and David Tilson, University of Georgia
 
-This forthcoming project will use automated telemetry and a grid of wireless nodes to track the local movements of Black Rail during their breeding season and beyond in Florida.
+This recently initiated project uses automated telemetry and a grid of wireless nodes to track the local movements of Black Rail during their breeding season and beyond in Florida.
 
 ## **Ruddy Turnstone stopover, migration routes, and association with disease prevalence**
 
@@ -50,17 +50,19 @@ Collaborators: Rebecca Poulson and Deb Carter, Southeast Coastal Wildlife Diseas
 
 Similar to the Red Knot work, this project aims to better understand the migratory pathways Ruddy Turnstones take towards their Arctic breeding grounds and how important the south Atlantic coast is as a staging area compared to more touted areas (e.g., Delaware Bay). In addition, we will explore the association between staging site connectivity and the transmission, prevalence, and distribution of shorebirds with various strains of influenza A and avian avulaviruses.
 
+## **Stopover ecology of Whimbrel in coastal South Carolina**
+
+Collaborators:  Maina Handmaker and Nathan Senner, University of South Carolina; Felicia Sanders, South Carolina DNR; Tim Keyes and Fletcher Smith, Georgia DNR
+
+This project employs GPS logging tags that offload data via VHF at communal roosts. We will examine the scale and ecology of Whimbrel spring stopover along the south Atlantic coast, as well as learn more about the migration routes of this cohort of the Whimbrel population, rounding out the picture provided by some recent satellite tracking data.
+
 ## **Merlin migration along the Atlantic Coast**
 
 Collaborators: [Biodiversity Research Institute](http://www.briloon.org/raptors); [Scott McWilliams, University of Rhode Island](http://web.uri.edu/nrs/scott-mcwilliams/)
 
 In the falls of 2014 - 2015, we deployed &#8776; 70 coded telemetry tags on southbound Merlins captured on Block Island, RI.  Merlins tend to migrate coastally and so made an ideal candidate for coded telemetry work given the automated telemetry network existing along the Atlantic Coast at that time. The primary purpose of the project was to explore how Merlins use southern New England (and Block Island in particular) and the mid-Atlantic coast during fall migration, including questions related to stopover on Block Island, rates and routes of migration upon departure, associations between these movements and atmospheric conditions, and differences in migratory strategies among the sexes. 
 
-## **Stopover ecology of Whimbrel in coastal South Carolina**
 
-Collaborators:  Maina Handmaker and Nathan Senner, University of South Carolina; Felicia Sanders, South Carolina DNR; Tim Keyes and Fletcher Smith, Georgia DNR
-
-This project employs GPS logging tags that offload data via VHF at communal roosts. We will examine the scale and ecology of Whimbrel spring stopover along the south Atlantic coast, as well as learn more about the migration routes of this cohort of the Whimbrel population, rounding out the picture provided by some recent satellite tracking data.
 
 # Completed projects
 
