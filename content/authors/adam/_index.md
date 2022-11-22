@@ -24,9 +24,9 @@ interests:
 - Open Science
 name: Adam Smith
 organizations:
-- name: U.S. Fish & Wildlife Service
-  url: https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/
-role: Quantitative Ecologist
+- name: American Bird Conservancy
+  url: https://abcbirds.org
+role: U.S. Motus Director
 social:
 - icon: envelope
   icon_pack: fas
