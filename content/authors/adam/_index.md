@@ -45,5 +45,3 @@ social:
   link: https://twitter.com/avianmigration
 superuser: true
 ---
-
-As a Quantitative Ecologist with the [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/), I provide ecological inventory and monitoring design and analytical assistance to the roughly 130 National Wildlife Refuges. In addition, I engage in diverse partnerships with conservation and resource management agencies and organizations to support a research program built around modern quantitative tools and approaches to understand the ecology and conservation of migratory animals. Most of my active projects are collaborative and integrate digitally-coded telemetry or GPS logging technology to answer landscape and local scale questions relevant to conservation and management. I am an open science advocate.
